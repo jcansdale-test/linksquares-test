@@ -51,4 +51,4 @@ jobs:
           EOM
 
       - name: Install Gem
-        run: gem install gh-package-poc
+        run: gem install gh-package-poc --version "0.1.18"
